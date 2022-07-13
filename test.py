@@ -1,10 +1,12 @@
-array = [7, 5, 9, 0, 3, 1, 6, 2, 4, 8]
+n = int(input())
 
-for i in range(len(array)):
-    min_index = i
-    for j in range(i + 1, len(array)):
-        if array[min_index] > array[j]:
-            min_index = j
-    array[i], array[min_index] = array[min_index], array[i]
+data = {}
 
-print(array)
+for _ in range(n):
+    age, name = input().split()
+    data[name] = age
+
+result = sorted(data.items(), key=lambda x: x[1])
+
+for val in result:
+    print(val[0], val[1])
