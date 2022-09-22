@@ -21,4 +21,4 @@
 |2161|구현|실버 5|[카드 1](https://www.acmicpc.net/problem/2161)|22.09.22.|굳이 큐를 쓸 필요 없는듯|
 |5585|그리디|브론즈 2|[거스름돈](https://www.acmicpc.net/problem/5585)|22.09.23|간단한 그리디 문제|
 |1439|그리디|실버 5|[뒤집기](https://www.acmicpc.net/problem/1439)|22.09.23|얻어걸림, 간단한 풀이|
-
+|1316|구현|실버 5|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|22.09.23|꽤 오래 생각한 풀이|
