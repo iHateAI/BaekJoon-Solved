@@ -1,3 +1,6 @@
+# 그룹 단어 체커
+# 구현
+
 n = int(input())
 count = 0
 for _ in range(n):
@@ -16,6 +19,3 @@ for _ in range(n):
         count += 1
 
 print(count)
-
-
-
