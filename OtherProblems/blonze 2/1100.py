@@ -1,3 +1,6 @@
+# 하얀 칸
+# 구현
+
 board = []
 count = 0
 for i in range(8):
