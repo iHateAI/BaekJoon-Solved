@@ -22,3 +22,5 @@
 |5585|그리디|브론즈 2|[거스름돈](https://www.acmicpc.net/problem/5585)|22.09.23|간단한 그리디 문제|
 |1439|그리디|실버 5|[뒤집기](https://www.acmicpc.net/problem/1439)|22.09.23|얻어걸림, 간단한 풀이|
 |1316|구현|실버 5|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|22.09.23|꽤 오래 생각한 풀이|
+|1100|구현|브론즈 2|[하얀 칸](https://www.acmicpc.net/problem/1100)|22.09.24|홀짝 잘 세기|
+|4673|구현|실버 5|[셀프 넘버](https://www.acmicpc.net/problem/4673)|22.09.24|셀프넘버가 아닌 수를 찾자|
