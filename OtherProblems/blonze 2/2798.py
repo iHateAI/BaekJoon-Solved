@@ -1,3 +1,6 @@
+# 블랙잭
+# 구현, 브루트포스
+
 n, m = map(int, input().split())
 cards = list(map(int, input().split()))
 
